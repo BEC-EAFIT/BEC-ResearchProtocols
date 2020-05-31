@@ -10,6 +10,6 @@ The contents of this repository are released under the [CC BY-SA 4.0 Internation
 
 ## Citing this work
 
-[BEC, Biodiversity Evolution and Conservation Research Group at Universidad EAFIT. 2020. BEC Research Protocols, v0.1.0, Zenodo, doi:10.5281/zenodo.3870735](BEC-ResearchProtocols.bib)  
+[BEC, Biodiversity Evolution and Conservation Research Group at Universidad EAFIT. 2020. BEC Research Protocols, v0.1.0, Zenodo, doi:10.5281/zenodo.3870735](protocols/BEC-ResearchProtocols.bib)  
 
 [![DOI](https://zenodo.org/badge/268137818.svg)](https://zenodo.org/badge/latestdoi/268137818)
