@@ -9,3 +9,7 @@ This repository houses the public research protocols developed or implemented by
 The contents of this repository are released under the [CC BY-SA 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 ## Citing this work
+
+[BEC, Biodiversity Evolution and Conservation Research Group at Universidad EAFIT. 2020. BEC Research Protocols, v0.1.0, Zenodo, doi:10.5281/zenodo.3870735](BEC-ResearchProtocols.bib)  
+
+[![DOI](https://zenodo.org/badge/268137818.svg)](https://zenodo.org/badge/latestdoi/268137818)
